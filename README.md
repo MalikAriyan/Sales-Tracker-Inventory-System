@@ -12,6 +12,13 @@ A simple console-based sales and inventory management system built in C++.
 - Save and load data from text files  
 - Password-protected admin access  
 
+## Default Password: admin123
+
+**Author**
+Developed by Malik Muhammad Ariyan.
+
+----------------------------------------------------------------
+
 ## How to Run
 1. Compile and run the program using any C++ compiler:
    ```bash
